@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Oluwaseyi Olanike R.</title>
+    <link>https://github.com/Sorach-Roshe/post/</link>
+    <description>Recent content in Projects on Oluwaseyi Olanike R.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Nov 2023 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://github.com/Sorach-Roshe/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Student Engagement Discord Bot</title>
+      <link>https://github.com/Sorach-Roshe/post/chapter-1/</link>
+      <pubDate>Thu, 09 Nov 2023 10:58:08 -0400</pubDate>
+      <guid>https://github.com/Sorach-Roshe/post/chapter-1/</guid>
+      <description>Developed an interactive student bot for a student discord server which catered for student engagement on a weekly basis. Generated listed and well-structured questions on a Google spreadsheet - based on students background and personal, motivations and aspirations. Collected, cleaned, and prepped data from the sheet using Python and Excel as well as LookerStudio to help our client make better marketing campaigns.&#xA;[Link to my github repository: ]</description>
+    </item>
+    <item>
+      <title>Project III: Movie Recommender App</title>
+      <link>https://github.com/Sorach-Roshe/post/chapter-2/</link>
+      <pubDate>Mon, 10 Jul 2023 11:00:59 -0400</pubDate>
+      <guid>https://github.com/Sorach-Roshe/post/chapter-2/</guid>
+      <description>Aggregated data from MovieLens and IMDB, constructing an enhanced entertainment selection targeted to meet the desires of our client&amp;rsquo;s customers.&#xA;Improved methodologies to save time by creating content based movie selection and collaborative filtering.&#xA;Built four different models with the SVD++ model performing the best with the least RMSE score of 0.8292.&#xA;[Link to my github repository: https://github.com/Data-lens-Analytics-BM1/unsupervised-predict-bm1.git]</description>
+    </item>
+    <item>
+      <title>Project II: Tweet Classifier App</title>
+      <link>https://github.com/Sorach-Roshe/post/chapter-3/</link>
+      <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
+      <guid>https://github.com/Sorach-Roshe/post/chapter-3/</guid>
+      <description>This Twitter Sentiment Classification project aimed to predict an individual&amp;rsquo;s belief in climate change based on their tweets. This project focused on developing a model that can accurately classify individuals&amp;rsquo; climate change beliefs using novel tweet data.&#xA;Understanding public perception of climate change is essential for companies aiming to reduce environmental impact and carbon footprint as part of their market research.&#xA;Having completed this classification task effectively, the developed model will enable companies gain valuable consumer sentiment data across various demographics and geographic regions.</description>
+    </item>
+    <item>
+      <title>Project I: South African Language Identification</title>
+      <link>https://github.com/Sorach-Roshe/post/chapter-4/</link>
+      <pubDate>Sun, 12 Mar 2023 11:14:48 -0400</pubDate>
+      <guid>https://github.com/Sorach-Roshe/post/chapter-4/</guid>
+      <description>In this project, some natural language processing (NLP) skills are shown to clean the dataset and give valuable insights from it.&#xA;[Link to my github repository: ]</description>
+    </item>
+  </channel>
+</rss>
